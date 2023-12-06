@@ -1,11 +1,11 @@
-@import './_reset.css';
-@import './_var.css';
-@import './_ui.css';
+@import './reset.css';
+@import './var.css';
+@import './ui.css';
 
-@import './_promo.css';
-@import './_modal.css';
-@import './_quiz.css';
-@import './_descr.css';
+@import './promo.css';
+@import './modal.css';
+@import './quiz.css';
+@import './descr.css';
 
 body {
 	font-family: 'Roboto', sans-serif;
