@@ -57,6 +57,12 @@
 	width: 100%;
 }
 
+@media (max-width:575px) {
+	.quiz-btn {
+		min-height: 4.6rem;
+	}
+}
+
 .quiz-btn:hover {
 	cursor: pointer;
 }
